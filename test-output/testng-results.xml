@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="OHRM_POM_Suite" duration-ms="43358" started-at="2021-12-08T03:50:42Z" finished-at="2021-12-08T03:51:25Z">
+    <groups>
+    </groups>
+    <test name="OHRM_POM_Test" duration-ms="43358" started-at="2021-12-08T03:50:42Z" finished-at="2021-12-08T03:51:25Z">
+      <class name="testcases.TC_01_HrmLogin">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testcases.TC_01_HrmLogin@4fe767f3]" name="setUp" is-config="true" duration-ms="7652" started-at="2021-12-08T03:50:42Z" finished-at="2021-12-08T03:50:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="sucessfullLoginActionTest()[pri:0, instance:testcases.TC_01_HrmLogin@4fe767f3]" name="sucessfullLoginActionTest" duration-ms="29947" started-at="2021-12-08T03:50:50Z" finished-at="2021-12-08T03:51:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sucessfullLoginActionTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.TC_01_HrmLogin@4fe767f3]" name="tearDown" is-config="true" duration-ms="5746" started-at="2021-12-08T03:51:19Z" finished-at="2021-12-08T03:51:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.TC_01_HrmLogin -->
+    </test> <!-- OHRM_POM_Test -->
+  </suite> <!-- OHRM_POM_Suite -->
+</testng-results>
